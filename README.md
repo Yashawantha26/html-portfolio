@@ -24,7 +24,7 @@ This portfolio showcases my profile, skills, projects, and contact information a
 
 ```
 portfolio/
-├── yashu.html
+├── index.html
 ├── README.md
 ├── LICENSE
 ```
